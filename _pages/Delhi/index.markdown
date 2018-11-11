@@ -1,7 +1,7 @@
 ---
 layout: delhi-page
 title: Welcome to LinuxChix India's Delhi chapter!
-permalink: /Delhi/
+permalink: linuxchixin/Delhi/
 ---
 
 {:refdef: style="text-align: center;"}
